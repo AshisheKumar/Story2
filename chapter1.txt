@@ -1,1 +1,2 @@
 This is chapter 1 in the story 2
+but an updated version of the previous one.
